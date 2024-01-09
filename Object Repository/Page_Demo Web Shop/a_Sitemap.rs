@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sitemap</name>
+   <tag></tag>
+   <elementGuidId>a0a93982-1dc2-4271-8f6f-57835d6be2e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.column.information > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Sitemap')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f740ee1-fccc-41c4-87a5-95b3fecf221d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sitemap</value>
+      <webElementGuid>d9463e93-3769-49b1-9f88-3ae67541a4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sitemap</value>
+      <webElementGuid>8d08216d-06a7-4c3f-80ee-faf23f0d8e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;footer-menu-wrapper&quot;]/div[@class=&quot;column information&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>a6a40fd2-790f-4d6a-9c78-2bc8847d15fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sitemap')]</value>
+      <webElementGuid>3679ebf7-3c8d-4dc6-94d1-47bc43a6918e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sitemap')]</value>
+      <webElementGuid>e1791bd5-2d7c-4a1f-8f03-2cb2d0236dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li/a</value>
+      <webElementGuid>017b0f7b-ca8f-4794-b52d-1d804aa3d54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sitemap' and (text() = 'Sitemap' or . = 'Sitemap')]</value>
+      <webElementGuid>d926593e-c49a-49eb-833b-32abc02f9ecc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

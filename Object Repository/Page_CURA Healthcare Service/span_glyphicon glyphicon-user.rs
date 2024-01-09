@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_glyphicon glyphicon-user</name>
+   <tag></tag>
+   <elementGuidId>98c9f887-5c72-4737-9699-63bf54031257</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-user</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='demo_username_label']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>524fa9fc-9a75-4190-b15c-af35a483bee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-user</value>
+      <webElementGuid>f25ec7a3-f48c-465d-a367-412ce95685b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>68c8bf6f-5543-4c1b-b0f5-8400886a2539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;demo_username_label&quot;)/span[@class=&quot;glyphicon glyphicon-user&quot;]</value>
+      <webElementGuid>e170aca6-9c80-4c7b-881c-6d93ac1d43c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='demo_username_label']/span</value>
+      <webElementGuid>798608e6-d529-4e86-ad73-0791df24a534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>7e034d21-651c-4001-a595-d2f2297856ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

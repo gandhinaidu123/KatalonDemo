@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My account</name>
+   <tag></tag>
+   <elementGuidId>96edb97a-6ad0-40a4-a91d-7598ade6424a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'My account')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.account</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4543d99c-ac26-4a1c-970a-e3fd76d37492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/customer/info</value>
+      <webElementGuid>4e1384fc-06e9-48b5-8263-fadb6e269ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>account</value>
+      <webElementGuid>2c1fa776-7ca3-4b8b-99bf-e0df61c56b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My account</value>
+      <webElementGuid>88c1c14e-d814-45d7-b0e8-3a8a1f8a781d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;footer-menu-wrapper&quot;]/div[@class=&quot;column my-account&quot;]/ul[1]/li[1]/a[@class=&quot;account&quot;]</value>
+      <webElementGuid>1ea2c969-3f21-4e99-affa-f813ccdbfd32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My account')]</value>
+      <webElementGuid>5485c6e0-20ac-4f92-9ee7-5b0cdd801b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/customer/info')]</value>
+      <webElementGuid>4cfbebb7-61f1-4e13-b00f-0d7f6437d4b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a</value>
+      <webElementGuid>6a22244e-bd55-472a-b16b-6cbfe5768e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/customer/info' and (text() = 'My account' or . = 'My account')]</value>
+      <webElementGuid>ad29f6ed-b14f-4079-80ef-728c5d3904d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

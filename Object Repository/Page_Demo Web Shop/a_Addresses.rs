@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Addresses</name>
+   <tag></tag>
+   <elementGuidId>780c6cb8-062b-417f-8cf9-b05f6caede01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Addresses')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.column.my-account > ul > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d5801cd-06dc-44bb-ab4b-8a995792b5ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/customer/addresses</value>
+      <webElementGuid>c9f53421-02ad-4624-aef8-3c8e0d1c2bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Addresses</value>
+      <webElementGuid>79f552b3-ea4d-49ca-942d-c9c34bd5c9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;footer-menu-wrapper&quot;]/div[@class=&quot;column my-account&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>05c4befb-fd46-4706-bac2-2c97669bf93d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Addresses')]</value>
+      <webElementGuid>d1c10999-8fd2-4759-8269-d233303ffe12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/customer/addresses')]</value>
+      <webElementGuid>7d3480c9-19d0-4b88-b221-2fc0ab399751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a</value>
+      <webElementGuid>4e24d9be-3ffe-4eb2-939c-fdf0c6a6a22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/customer/addresses' and (text() = 'Addresses' or . = 'Addresses')]</value>
+      <webElementGuid>c2f3c738-5497-4052-a836-dfebcf1e2c2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

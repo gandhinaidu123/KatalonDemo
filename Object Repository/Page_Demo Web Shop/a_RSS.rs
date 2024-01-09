@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_RSS</name>
+   <tag></tag>
+   <elementGuidId>cbe93c74-f477-4baa-bd4e-7a7c0c175d0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'RSS')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.rss > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1477fb9c-b1cc-4e76-a42c-2c3ac86876ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/news/rss/1</value>
+      <webElementGuid>66754469-b961-4a3b-b0e9-8c3a2a514c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RSS</value>
+      <webElementGuid>21240154-ef78-4e4f-a101-16101b591e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;footer-menu-wrapper&quot;]/div[@class=&quot;column follow-us&quot;]/ul[1]/li[@class=&quot;rss&quot;]/a[1]</value>
+      <webElementGuid>f1168077-ddb2-45e5-b86e-e847f9343085</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'RSS')]</value>
+      <webElementGuid>cee49756-c4b5-4280-bdf4-3ae7597c9410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/news/rss/1')]</value>
+      <webElementGuid>4fca8352-e42f-4de3-b0f1-e25787f39961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[3]/a</value>
+      <webElementGuid>7cd8dca1-38e7-49b8-95d9-eb3aa7979696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/news/rss/1' and (text() = 'RSS' or . = 'RSS')]</value>
+      <webElementGuid>9fb6ce0a-0481-44b5-ac8a-ee6e1a7c47e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
